@@ -1,3 +1,4 @@
+
 Final Report
 
 Eshan Ratnayake
@@ -5,9 +6,9 @@ Cousera Capstone Project
 December 2, 2018
 
 Introduction
-Canada is a country well known for its multiculturalism and diversity. Toronto is one city in particular where one can find communities, food, and venues of various ethnic groups. Immigrating to a country like Canada however can be a very stressful and intimidating task, specifically choosing the best location to purchase a residence. There are many factors that one must look into when buying a house, and it can be tough to make a decision while analyzing all these factors. To make things easier for new immigrants to Canada, I’ve proposed a solution that can help make their lives easier. What I will be doing is taking 3 factors (price, distance to work, and nearby venues) into account to help people figure out the best location to purchase a house.
+Canada is a country well known for its multiculturalism and diversity. Toronto is one city in particular where one can find communities, food, and venues of various ethnic groups. Immigrating to a country like Canada however can be a very stressful and intimidating task, specifically choosing the best location to purchase a residence. There are many factors that one must look into when buying a house, and it can be tough to make a decision while analyzing all these factors. To make things easier for new immigrants to Canada, Iâ€™ve proposed a solution that can help make their lives easier. What I will be doing is taking 3 factors (price, distance to work, and nearby venues) into account to help people figure out the best location to purchase a house.
  
 Data
-The data that I will be using will be from a dataset I’ve obtained from Kaggle (https://www.kaggle.com/mnabaee/ontarioproperties). 
+The data that I will be using will be from a dataset Iâ€™ve obtained from Kaggle (https://www.kaggle.com/mnabaee/ontarioproperties). 
 	
-This data set shows the address, area name, prices and latitude/longitude coordinates of different properties that were sold in Ontario. The housing prices in different areas is a key factor to new immigrants to familiarize themselves with so they can determine which ones best suit their budget. Distance from work is another factor that needs to be considered to avoid long commutes. I will also be leveraging the Foursquare API to analyze all the nearby venues for different neighbourhoods. Using this API, I will filter out venues with keywords that match the ethnic background of the immigrant. I believe if a neighbourhood has many venues that are similar to an immigrant’s country of origin, and can help them feel more comfortable, and also help find individuals from their ethnic community to associate with.
+This data set shows the address, area name, prices and latitude/longitude coordinates of different properties that were sold in Ontario. The housing prices in different areas is a key factor to new immigrants to familiarize themselves with so they can determine which ones best suit their budget. Distance from work is another factor that needs to be considered to avoid long commutes. I will also be leveraging the Foursquare API to analyze all the nearby venues for different neighbourhoods. Using this API, I will filter out venues with keywords that match the ethnic background of the immigrant. I believe if a neighbourhood has many venues that are similar to an immigrantâ€™s country of origin, and can help them feel more comfortable, and also help find individuals from their ethnic community to associate with.
